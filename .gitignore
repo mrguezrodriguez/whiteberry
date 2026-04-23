@@ -2,6 +2,10 @@
 __pycache__/
 *.py[codz]
 *$py.class
+*.log
+*.tmp
+*.temp
+
 
 # C extensions
 *.so
@@ -205,3 +209,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Credenciales
+credentials/
+###*.json.key
+###secrets/
+
