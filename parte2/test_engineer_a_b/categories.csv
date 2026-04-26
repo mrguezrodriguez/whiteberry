@@ -1,7 +1,9 @@
 category_id,name,description
-1,Electronics,Electronic devices
-2,Clothing,Apparel and fashion
-3,Home,Home and furniture
-4,Sports,Sports equipment
-5,Books,Books and media
-6,Beauty,Beauty and personal care
+1,Laptops,Portable computers
+2,Smartphones,Mobile phones
+3,Tablets,Tablet devices
+4,Accessories,"Chargers, cables, peripherals"
+5,Gaming,Consoles and gaming gear
+6,Audio,Headphones and speakers
+7,Monitors,Screens and displays
+8,Components,Hardware components
