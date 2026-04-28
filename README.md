@@ -97,14 +97,6 @@ El proyecto abarca desde el diseño del modelo de datos hasta la validación med
 
 ---
 
-## 🧩 Modelo de Datos
-Se puede consultar el modelo de datos en el directorio docs de la parte2, tanto su descripción como su visualización generada con [dbdiagram.io](https://dbdiagram.io/home)
-
-
-
-
----
-
 ## 👥 Equipo
 
 | Nombre | Rol | 
@@ -112,7 +104,7 @@ Se puede consultar el modelo de datos en el directorio docs de la parte2, tanto 
 | María Rodriguez | Scrum Master | 
 | William Walker | Data Modeler | 
 | Paula Comas | Data Engineer 1 | 
-| Ana Corrochano | Data Engineer 1 | 
+| Ana Corrochano | Data Engineer 2 | 
 | Melania Fondevilla | QA / Docs | 
 
 ---
